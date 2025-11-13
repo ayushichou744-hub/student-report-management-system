@@ -1,0 +1,13 @@
+========== STUDENT MANAGEMENT MENU ==========
+1. Add Student Record
+2. Display All Students Report
+3. Search Student Report by Roll No
+4. Exit
+Enter your choice: 2
+
+==================== STUDENT REPORT ====================
+Roll No   Name                Marks
+---------------------------------------------------------
+101       Sofiya              89.5
+102       Alex                92.0
+=========================================================
