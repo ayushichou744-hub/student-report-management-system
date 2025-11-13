@@ -1,13 +1,11 @@
-========== STUDENT MANAGEMENT MENU ==========
-1. Add Student Record
-2. Display All Students Report
-3. Search Student Report by Roll No
-4. Exit
-Enter your choice: 2
+# COVID-19 New Cases Analysis
 
-==================== STUDENT REPORT ====================
-Roll No   Name                Marks
----------------------------------------------------------
-101       Sofiya              89.5
-102       Alex                92.0
-=========================================================
+This project loads covid_data.csv and visualizes new COVID cases by country.
+
+## How to Run
+1. Install Python, pandas, matplotlib
+2. Run covid19analysis.py
+
+## Files
+- covid19analysis.py: Main code
+- covid_data.csv: Dataset
